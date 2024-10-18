@@ -13,7 +13,7 @@ I'm a PhD candidate at the Artificial Intelligence Lab. 💻 , Recod.ai, Univers
 - 💡 I enjoy learning new things.
 - 🎓 Computer science PhD candidate at [Universidade de Campinas (UNICAMP].
 - 🔎 Multimodal Models and Deep Learning researcher at [Reasoning for Complex Data (RECOD](https://recod.ai/equipe/).
-- 🔎 NLP researcher at [Artificial Intelligence and Cognitive Architectures Hub (H.IAAC](https://hiaac.unicamp.br/students/).
+- 🔎 NLP researcher at [Artificial Intelligence and Cognitive Architectures Hub (H.IAAC)](https://hiaac.unicamp.br/students/).
 - 🔎 Visiting researcher at the University of Sheffield - Multimodal Representation Space for Text-Guided Data Generation.
 
 ## Languages
