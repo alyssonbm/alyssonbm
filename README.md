@@ -69,5 +69,3 @@ I'm a PhD candidate at the Artificial Intelligence Lab. 💻 , Recod.ai, Univers
 </a>
 
 <hr/>
-
-![alefiury github stats](https://github-readme-stats.vercel.app/api?username=alyssonbm&count_private=true&show_icons=true&theme=calm)
