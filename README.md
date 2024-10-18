@@ -6,7 +6,8 @@ Hi there, I'm Diego 👋
 I'm a PhD candidate at the Artificial Intelligence Lab. 💻 , Recod.ai, University of Campinas (Unicamp).
 </h2> 
 
-🔭 - Currently, I am passionate about working with Deep Learning and Multimodal Models, exploring how these models interact. 
+🔭 - Currently, I am passionate about working with Deep Learning and Multimodal Models, exploring how these models interact.
+
 🌱 - I also have experience in other areas such as eHealth, Wireless Sensor Networks (WSN), Vehicular Networks (VANETs), Internet of Things (IoT), and Big Data.
 
 - 💡 I enjoy learning new things.
